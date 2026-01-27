@@ -112,7 +112,7 @@ Campuses → Cities → Smart Communities
 
 IBM 1M1B – AI for Sustainability Intern
 Mansi Naresh Yelkar
-🔗 GitHub: your-repo-link
+🔗 GitHub:https://github.com/Mansi-Yelkar/AI-Campus-Sustainability-Insight-Engine.git
 
 🌱 AI-Powered Campus Sustainability Insight Engine
 Turning everyday feedback into sustainable action.
