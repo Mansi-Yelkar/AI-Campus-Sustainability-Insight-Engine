@@ -44,7 +44,11 @@ Automated Flow:
 Feedback / Complaints → NLP Analysis → Issue Classification → Pattern Detection
 → Priority Assignment → Insight Generation → Human Feedback Loop
 
-🎬 Demo
+🎬 Demo:
+
+
+https://github.com/user-attachments/assets/a059e862-0465-461c-85ed-ce20c952c0f7
+
 
 📌 Prompt-Based AI Demo
 
